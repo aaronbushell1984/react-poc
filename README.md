@@ -1,3 +1,8 @@
+# Dockerizing Information
+
+> [dockerizing-a-react-app](https://mherman.org/blog/dockerizing-a-react-app/)
+___
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
